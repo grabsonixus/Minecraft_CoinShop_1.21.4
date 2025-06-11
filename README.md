@@ -66,21 +66,34 @@ Coins can be exchanged in crafting table or traded with villagers.
 
 ## 📸 Screenshots
 
-*(Add screenshots of coins and shops here)*
+![Gold Coin](screenshots/gold_coin.png) ![Silver Coin](screenshots/silver_coin.png) ![Bronze Coin](screenshots/bronze_coin.png)
 
+*Custom 16x16 pixel art coins with detailed shading and highlights*
 ## 🐛 Bug reports
 
 Found an issue? [Open an issue](../../issues) with bug description.
+
+## 🎨 Credits
+
+### Textures:
+- **Coin textures** created by **Grabson**
+- Original 16x16 pixel art designed specifically for this datapack
+- All textures are custom-made and included in the resource pack
+
+### Code:
+- Datapack system created by **Grabson**
 
 ## 📝 License
 
 This project is available under MIT License. You can use, modify and distribute it.
 
+**Note:** All textures are original work and free to use with this datapack.
+
 ## 👨‍💻 Author
 
-**Grabson69**
-- GitHub: [@grabson69](https://github.com/grabson69)  
-- Discord: *grabson69*
+**Grabson**
+- GitHub: [@grabsonixus](https://github.com/grabsonixus)  
+- Discord: *grabsonx*
 
 *Created with help of Claude AI - thank you for support in creating this project! 🤖*
 

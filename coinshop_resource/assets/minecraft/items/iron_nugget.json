@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/iron_nugget"
+    },
+    "cases": [
+      {
+        "when": "silver_coin",
+        "model": {
+          "type": "model",
+          "model": "item/coinshop_silver_coin"
+        }
+      }
+    ]
+  }
+}

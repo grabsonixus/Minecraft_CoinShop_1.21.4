@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 61,
+    "description": [
+      {
+        "text": "Coinshop Datapack v1.1",
+        "color": "gold"
+      },
+      {
+        "text": "\nSystem sklepów z monetami",
+        "color": "gray"
+      }
+    ]
+  }
+}

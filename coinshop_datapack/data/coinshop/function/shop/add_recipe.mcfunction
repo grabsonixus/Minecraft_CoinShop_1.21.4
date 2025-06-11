@@ -1,0 +1,9 @@
+# Dodaje recipe do listy na podstawie current_buy i current_sell
+data modify storage coinshop:temp new_recipe set value {rewardExp:0b,maxUses:999999,uses:0,priceMultiplier:0.0f}
+data modify storage coinshop:temp new_recipe.buy set from storage coinshop:temp current_buy
+data modify storage coinshop:temp new_recipe.sell set from storage coinshop:temp current_sell
+
+# Dodaj do listy recipes
+data modify storage coinshop:temp recipes append from storage coinshop:temp new_recipe
+
+say [DEBUG] Recipe added to list
