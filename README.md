@@ -66,7 +66,7 @@ Coins can be exchanged in crafting table or traded with villagers.
 
 ## 📸 Screenshots
 
-![Gold Coin](screenshots/gold_coin.png) ![Silver Coin](screenshots/silver_coin.png) ![Bronze Coin](screenshots/bronze_coin.png)
+![Gold Coin](screenshots/goldcoin.png) ![Silver Coin](screenshots/silvercoin.png) ![Bronze Coin](screenshots/bronzecoin.png)
 
 *Custom 16x16 pixel art coins with detailed shading and highlights*
 ## 🐛 Bug reports
