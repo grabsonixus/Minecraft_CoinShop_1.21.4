@@ -7,7 +7,7 @@ tellraw @s [{"text":"[DEBUG] ","color":"red"},{"text":"Recipes in storage: ","co
 
 # Creating villager with dynamic offers
 say [DEBUG] Attempting to summon villager...
-execute positioned ~ ~ ~ run summon minecraft:villager ~ ~ ~ {CustomName:'[{"text":"Custom Merchant","color":"green","bold":true}]',Tags:["coinshop.merchant","coinshop.dynamic"],VillagerData:{profession:"minecraft:none",level:5,type:"minecraft:plains"},Invulnerable:1b,PersistenceRequired:1b,NoAI:1b,Silent:0b,Offers:{Recipes:[]}}
+execute positioned ~ ~ ~ run summon minecraft:villager ~ ~ ~ {CustomName:'[{"text":"Custom Merchant"}]',Tags:["coinshop.merchant","coinshop.dynamic"],VillagerData:{profession:"minecraft:none",level:5,type:"minecraft:plains"},Invulnerable:1b,PersistenceRequired:1b,NoAI:1b,Silent:0b,Offers:{Recipes:[]}}
 
 # Debug - check if villager was created
 execute if entity @e[type=villager,tag=coinshop.dynamic] run say [DEBUG] Villager summoned successfully!
