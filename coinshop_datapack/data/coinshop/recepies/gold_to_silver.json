@@ -18,10 +18,10 @@
     "id": "minecraft:brown_dye",
     "count": 10,
     "components": {
-      "minecraft:custom_name": "[{\"text\":\"Srebrna Moneta\",\"color\":\"gray\",\"italic\":false,\"bold\":true}]",
+      "minecraft:custom_name": "[{\"text\":\"Silver Coin\",\"color\":\"gray\",\"italic\":false,\"bold\":true}]",
       "minecraft:lore": [
-        "[{\"text\":\"Średnia wartość\",\"color\":\"dark_gray\",\"italic\":true}]",
-        "[{\"text\":\"Wartość: 10 brązowych\",\"color\":\"gray\",\"italic\":true}]"
+        "[{\"text\":\"Medium value\",\"color\":\"dark_gray\",\"italic\":true}]",
+        "[{\"text\":\"Value: 10 bronze\",\"color\":\"gray\",\"italic\":true}]"
       ],
       "minecraft:custom_data": {
         "coinshop": {
